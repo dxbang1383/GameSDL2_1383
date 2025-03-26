@@ -1,0 +1,8 @@
+﻿  main.cpp
+E:\04Project\SDL2\SDL2\main.cpp(138,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\04Project\SDL2\SDL2\main.cpp(139,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\04Project\SDL2\SDL2\main.cpp(143,27): warning C4244: '=': conversion from 'const double' to 'int', possible loss of data
+E:\04Project\SDL2\SDL2\main.cpp(144,27): warning C4244: '=': conversion from 'const double' to 'int', possible loss of data
+E:\04Project\SDL2\SDL2\main.cpp(182,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\04Project\SDL2\SDL2\main.cpp(183,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  SDL2.vcxproj -> E:\04Project\SDL2\x64\Debug\SDL2.exe
